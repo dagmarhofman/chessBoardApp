@@ -1,0 +1,79 @@
+
+.board {
+	border-color: black;
+	border-width: 5px;
+	border-style: solid;
+	height: 400px;
+	width: 400px;
+}
+.cell {
+	position:fixed;
+	height: 50px;
+	width: 50px;
+}
+
+.image {
+	height: 50px;
+	width: 50px;
+}
+
+
+
+.white {
+	background-color: white;
+}
+
+.black {
+	background-color: chocolate;
+}
+
+.col0 {
+	margin-left: 0px;
+}
+.col1 {
+	margin-left: 50px;
+}
+.col2 {
+	margin-left: 100px;
+}
+.col3 {
+	margin-left: 150px;
+}
+.col4 {
+	margin-left: 200px;
+}
+.col5 {
+	margin-left: 250px;
+}
+.col6 {
+	margin-left: 300px;
+}
+.col7 {
+	margin-left: 350px;
+}
+
+.row0 {
+	margin-top: 0px;
+}
+.row1 {
+	margin-top: 50px;
+}
+.row2 {
+	margin-top: 100px;
+}
+.row3 {
+	margin-top: 150px;
+}
+.row4 {
+	margin-top: 200px;
+}
+.row5 {
+	margin-top: 250px;
+}
+.row6 {
+	margin-top: 300px;
+}
+.row7 {
+	margin-top: 350px;
+}
+
